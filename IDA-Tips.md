@@ -12,6 +12,11 @@ another way is by viewing "Program Segmentation"
 
 then double-click to .text segment and it will show the image base!
 
+easy way is with cff explorer
+
+![image](https://user-images.githubusercontent.com/8508996/155208557-f3c8ceb8-bd50-4c07-a2f5-3d84da6aa20f.png)
+
+
 - find the virtual address of entry point of the binary 
 Click CTRL+e
 
